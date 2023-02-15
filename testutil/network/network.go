@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"unigrid/app"
+	"github.com/TimNhanTa/unigrid/app"
 
 	"github.com/cosmos/cosmos-sdk/baseapp"
 	"github.com/cosmos/cosmos-sdk/crypto/hd"

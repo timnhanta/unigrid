@@ -1,0 +1,7 @@
+syntax = "proto3";
+package unigrid.dex;
+
+option go_package = "unigrid/x/dex/types";
+
+// Msg defines the Msg service.
+service Msg {}

@@ -6,8 +6,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/server"
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 
-	"unigrid/app"
-	"unigrid/cmd/unigridd/cmd"
+	"github.com/TimNhanTa/unigrid/app"
+	"github.com/TimNhanTa/unigrid/cmd/unigridd/cmd"
 )
 
 func main() {

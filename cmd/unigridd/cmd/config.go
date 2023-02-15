@@ -3,7 +3,7 @@ package cmd
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"unigrid/app"
+	"github.com/TimNhanTa/unigrid/app"
 )
 
 func initSDKConfig() {
